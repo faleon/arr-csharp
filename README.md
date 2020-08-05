@@ -1,2 +1,2 @@
 # arr-csharp
-C# libraries and programs developed by Antony Rivera.
+C# libraries and programs developed by Antony Rivera
